@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Shibo's Pages!Hello World.
 
 You can use the [editor on GitHub](https://github.com/shibo1105/GA1030/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
